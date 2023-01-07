@@ -13,3 +13,5 @@ def helloManh(num_rep):
     
 num_rep = input("enter a number: ")
 helloManh(num_rep)
+
+# i am just a normal person
